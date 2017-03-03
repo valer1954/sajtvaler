@@ -1,0 +1,27 @@
+.content,.wrapper,.menu,body,html{
+heigth:100%;}
+.wrapper {
+display:flex;}
+.content {
+flex:1;
+padding:40px;
+background:#fcfcfd;
+
+}
+.block{
+	padding:20px;
+	margin:40px;
+	background:#fff;
+	border:1px solid #eeeff2;
+}
+.menu {
+	width:200px;
+	background:#464e78;
+	padding:20px;
+margin:20px 0;}
+.menu a {
+	display:blok;
+	color:fff;
+padding:10px;}
+	
+
